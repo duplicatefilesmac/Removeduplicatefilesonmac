@@ -1,4 +1,4 @@
-# Removeduplicatefilesonmac
+# Remove duplicate files on mac
 # How to find and delete duplicate files on Mac #
 
 We show how to clear valuable space by finding and deleting duplicate files which could be slowing down your Mac
