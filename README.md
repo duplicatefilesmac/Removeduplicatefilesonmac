@@ -4,7 +4,7 @@
 We show how to clear valuable space by finding and deleting duplicate files which could be slowing down your Mac
 This is the best app today to find and delete duplicate files in mac:
 
-#[Mac Duplicate Files Finder And Remover](https://www.mb103.com/lnk.asp?o=13792&c=918277&a=346206&k=F6117CBB7B79CCD821B9944992D98F60&l=14541 )#
+[Mac Duplicate Files Finder And Remover](https://www.mb103.com/lnk.asp?o=13792&c=918277&a=346206&k=F6117CBB7B79CCD821B9944992D98F60&l=14541 )
 
 Over time, our hard drives can accumulate a large collection of duplicate files that take up space and can even slow down the performance of a Mac. Finding and deleting them can be time-consuming if you try to do it one by one, so in this article we show you quicker ways to cleanse your system of these delinquent doppelgängers.
 
@@ -12,14 +12,16 @@ For more ways to spruce up your computer, try reading our How to speed up a slow
 
 [Use this app to find and remove duplicate files on your mac](https://www.mb103.com/lnk.asp?o=13792&c=918277&a=346206&k=F6117CBB7B79CCD821B9944992D98F60&l=14541 )
 
-Why do I have duplicate files?
+# Why do I have duplicate files? #
 In most cases these will be mistaken downloads (clicking on a link twice), music files that you've added to iTunes but which still have the originals stored on your disk, Mail attachments, or a number of other possibilities. Unless you're fastidious in the use of your Mac, duplicates are going to turn up one way or another.
 
 
-Using dedicated third-party apps
+# Using dedicated third-party apps # 
 There are a number of duplicate file finders on the Mac App Store which will automatically search your system and recommend file doubles that can be removed.
 
-Many are free, including Dr Cleaner, Duplicate File Finder Remover and Duplicates Cleaner.
+Gemini is the best app to find and remove duplicate files in mac.
+
+[The best app to remove duplicate files mac](https://www.mb103.com/lnk.asp?o=13792&c=918277&a=346206&k=F6117CBB7B79CCD821B9944992D98F60&l=14541 )
 
 Most offer similar features, in that you ask the app to scan your hard drive, then are presented with a list of duplicates, accompanied by the original file so you know which ones are safe to delete.
 
